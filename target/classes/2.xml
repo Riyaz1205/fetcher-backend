@@ -1,0 +1,10 @@
+<Employees>
+    <Employee name="mat">
+        <salary>$3000</salary>
+        <pension>$500</pension>
+    </Employee>
+    <Employee name="tom">
+        <salary>$3500</salary>
+        <pension>$700</pension>
+    </Employee>
+</Employees>

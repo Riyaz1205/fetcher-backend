@@ -1,0 +1,18 @@
+<EmployeeCollection>
+    <employee>
+        <id>0</id>
+        <name>jeff</name>
+        <address>2344 States Drive, MA 01213, USA</address>
+        <phone>333-222-2222</phone>
+        <salary>13500</salary>
+        <pension>7600</pension>
+    </employee>
+    <employee>
+        <id>0</id>
+        <name>bezos</name>
+        <address>2345 Gates Drive, PA 11213, USA</address>
+        <phone>444-222-2222</phone>
+        <salary>13000</salary>
+        <pension>7500</pension>
+    </employee>
+</EmployeeCollection>
